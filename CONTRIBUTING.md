@@ -10,7 +10,7 @@ This instructions are for linux base systems. (Linux, MacOS, BSD, etc.)
 - On github interface click on `Fork` button.
 - Clone your fork of this repo. `git clone git@github.com:YOUR_GIT_USERNAME/movie-mind.git`
 - Enter the directory `cd movie-mind`
-- Add upstream repo `git remote add upstream https://github.com/peppajoke/movie-mind`
+- Add upstream repo `git remote add upstream https://github.com//movie-mind`
 
 ## Setting up your own virtual environment
 

@@ -32,11 +32,11 @@ def read_requirements(path):
 setup(
     name="movie_mind",
     version=read("movie_mind", "VERSION"),
-    description="Awesome movie_mind created by peppajoke",
-    url="https://github.com/peppajoke/movie-mind/",
+    description="Awesome movie_mind created by ",
+    url="https://github.com//movie-mind/",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    author="peppajoke",
+    author="",
     packages=find_packages(exclude=["tests", ".github"]),
     install_requires=read_requirements("requirements.txt"),
     entry_points={
